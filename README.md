@@ -1,6 +1,6 @@
 # Colab-mcp
 
-An MCP server for bridging your local agent to a Colab session in the browser.
+An MCP server for bridging your WorkBuddy agent to a Colab session in the browser.
 
 # Supported Clients
 This MCP server requires client support for `notifications/tools/list_changed` and for the client to be running locally on your device. 
